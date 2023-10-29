@@ -41,7 +41,6 @@ My virtual assistant can perform various tasks based on my voice commands. Some 
 - **Opening Google Site**: Similar to YouTube, it opens the Google website when I say "open Google."
 
 - **Knowing the Current Time**: I can ask my assistant for the current time, and it will provide me with the time.
-- 
 
 ## Personal Reflection
 
